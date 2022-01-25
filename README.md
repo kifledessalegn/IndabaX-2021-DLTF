@@ -1,14 +1,3 @@
-# Zero to Mastery Deep Learning with TensorFlow
-
-All of the course materials for the [Zero to Mastery Deep Learning with TensorFlow course](https://dbourke.link/ZTMTFcourse).
-
-This course will teach you foundations of deep learning and TensorFlow as well as prepare you to pass the TensorFlow Developer Certification exam (optional).
-
-## Important links
-* 🎥 Watch the [first 14-hours of the course on YouTube](https://dbourke.link/tfpart1part2) (notebooks 00, 01, 02)
-* 📖 Read the [beautiful online book version of the course](https://dev.mrdbourke.com/tensorflow-deep-learning/)
-* 💻 [Sign up](https://dbourke.link/ZTMTFcourse) to the full course on the Zero to Mastery Academy (videos for notebooks 03-10)
-* 🤔 Got questions about the course? Check out the [livestream Q&A for the course launch](https://youtu.be/rqAqcFcfeK8)
 
 ## Contents of this page
 - [Course materials](https://github.com/mrdbourke/tensorflow-deep-learning#course-materials) (everything you'll need for completing the course)
